@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://b783y5euc185p"]
+
+[node name="Game" type="Node2D"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+custom_minimum_size = Vector2(1080, 1920)
+offset_right = 1080.0
+offset_bottom = 1920.0
