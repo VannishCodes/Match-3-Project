@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cybr4ohpjwcv"
-path="res://.godot/imported/Spiral_ball.png-aeea302c1734b9a32981324995edfeb0.ctex"
+uid="uid://b8adnadcwdl51"
+path="res://.godot/imported/star_tile.png-110f723bce8f4cc8f5b25792c0c2169e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tiles/Spiral_ball.png"
-dest_files=["res://.godot/imported/Spiral_ball.png-aeea302c1734b9a32981324995edfeb0.ctex"]
+source_file="res://assets/tiles/star_tile.png"
+dest_files=["res://.godot/imported/star_tile.png-110f723bce8f4cc8f5b25792c0c2169e.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b8adnadcwdl51"
-path="res://.godot/imported/Star_ball.png-13389a6d52459bba3775b06a36a21c9b.ctex"
+uid="uid://cj4ugditblrha"
+path="res://.godot/imported/fire_tile.png-cb6846232e3314b496b873d57969c6ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tiles/Star_ball.png"
-dest_files=["res://.godot/imported/Star_ball.png-13389a6d52459bba3775b06a36a21c9b.ctex"]
+source_file="res://assets/tiles/fire_tile.png"
+dest_files=["res://.godot/imported/fire_tile.png-cb6846232e3314b496b873d57969c6ce.ctex"]
 
 [params]
 

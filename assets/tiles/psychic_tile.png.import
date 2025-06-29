@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cj4ugditblrha"
-path="res://.godot/imported/Fire_ball.png-55256648780b33a2361b1687d77f5111.ctex"
+uid="uid://cybr4ohpjwcv"
+path="res://.godot/imported/psychic_tile.png-938e11977dc27d5f47519d6693bad1ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tiles/Fire_ball.png"
-dest_files=["res://.godot/imported/Fire_ball.png-55256648780b33a2361b1687d77f5111.ctex"]
+source_file="res://assets/tiles/psychic_tile.png"
+dest_files=["res://.godot/imported/psychic_tile.png-938e11977dc27d5f47519d6693bad1ea.ctex"]
 
 [params]
 

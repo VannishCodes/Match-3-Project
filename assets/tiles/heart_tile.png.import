@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cto83jcho2mqk"
-path="res://.godot/imported/Energy_ball.png-a4c81f6927dab91efdf25f12a073dcda.ctex"
+uid="uid://dnd612u1uog1t"
+path="res://.godot/imported/heart_tile.png-845b6910e1f2b509447a6da4361519bf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tiles/Energy_ball.png"
-dest_files=["res://.godot/imported/Energy_ball.png-a4c81f6927dab91efdf25f12a073dcda.ctex"]
+source_file="res://assets/tiles/heart_tile.png"
+dest_files=["res://.godot/imported/heart_tile.png-845b6910e1f2b509447a6da4361519bf.ctex"]
 
 [params]
 

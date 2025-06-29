@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c2ro0hc2f6jh8"
-path="res://.godot/imported/Leaf_ball.png-768179e754009395ce72ff4d9b9dfe40.ctex"
+uid="uid://cto83jcho2mqk"
+path="res://.godot/imported/lightning_tile.png-db257066c6195576e094af1b52fb87b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tiles/Leaf_ball.png"
-dest_files=["res://.godot/imported/Leaf_ball.png-768179e754009395ce72ff4d9b9dfe40.ctex"]
+source_file="res://assets/tiles/lightning_tile.png"
+dest_files=["res://.godot/imported/lightning_tile.png-db257066c6195576e094af1b52fb87b9.ctex"]
 
 [params]
 
