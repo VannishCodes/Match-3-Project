@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://cc0amjflhhtp6"]
+
+[ext_resource type="PackedScene" uid="uid://dqb44evpu2r8u" path="res://scenes/tiles/generic_tile.tscn" id="1_alv4h"]
+[ext_resource type="Texture2D" uid="uid://cj4ugditblrha" path="res://assets/tiles/fire_tile.png" id="2_8428d"]
+
+[node name="Fire Tile" instance=ExtResource("1_alv4h")]
+id = 1
+
+[node name="Sprite" parent="." index="0"]
+texture = ExtResource("2_8428d")

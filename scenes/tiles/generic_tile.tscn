@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://dqb44evpu2r8u"]
+
+[ext_resource type="Script" uid="uid://cx3g2pe0ke2qp" path="res://scripts/tile.gd" id="1_1cofa"]
+
+[node name="Generic Tile" type="Node2D"]
+script = ExtResource("1_1cofa")
+
+[node name="Sprite" type="Sprite2D" parent="."]
+scale = Vector2(0.5, 0.5)

@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://baoy7bcrv3beq"]
+
+[ext_resource type="PackedScene" uid="uid://dqb44evpu2r8u" path="res://scenes/tiles/generic_tile.tscn" id="1_07evm"]
+[ext_resource type="Texture2D" uid="uid://c2ro0hc2f6jh8" path="res://assets/tiles/nature_tile.png" id="2_th4fn"]
+
+[node name="Nature Tile" instance=ExtResource("1_07evm")]
+id = 3
+
+[node name="Sprite" parent="." index="0"]
+texture = ExtResource("2_th4fn")
